@@ -1,6 +1,5 @@
 # Computer Science I
 
-----
 ## August 17, 2023
 
 ### TEKS
