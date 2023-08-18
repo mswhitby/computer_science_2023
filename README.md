@@ -2,8 +2,8 @@
 
 [GitHub](https://github.com/mswhitby) |
 [WHS](https://judsonisd.org/domain/6785) |
-[Email](mailto:dwhitby@judsonisd.org) |
-[Phone](tel:+12106625000)
+[Email](mailto: dwhitby@judsonisd.org) |
+[Phone](tel: +12106625000)
 
 ----
 ## August 17, 2023
