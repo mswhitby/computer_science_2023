@@ -1,5 +1,10 @@
 # Computer Science I
 
+[GitHub](https://github.com/mswhitby) |
+[WHS](https://judsonisd.org/domain/6785) |
+[Email](mailto:dwhitby@judsonisd.org) |
+[Phone](tel:2106625000)
+
 ----
 ## August 17, 2023
 
